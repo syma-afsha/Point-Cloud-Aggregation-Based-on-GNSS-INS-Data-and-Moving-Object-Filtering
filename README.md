@@ -1,7 +1,7 @@
 ### Point-Cloud-Aggregation-Based-on-GNSS-INS-Data-and-Moving-Object-Filtering
 Data: 
 
-A vehicle equipped with a top lidar, a GNSS-INS, and cameras is navigating through an urban environment. All sensors are intrinsically and extrinsically calibrated, time-synchronized, and supported by RTK correction data for GNSS accuracy. The collected sensor data is recorded and accessible for processing here. [Link Text](https://nuscenes.org/)
+A vehicle equipped with a top lidar, a GNSS-INS, and cameras is navigating through an urban environment. All sensors are intrinsically and extrinsically calibrated, time-synchronized, and supported by RTK correction data for GNSS accuracy. The collected sensor data is recorded and accessible for processing [here](https://nuscenes.org/).
 
 
  
