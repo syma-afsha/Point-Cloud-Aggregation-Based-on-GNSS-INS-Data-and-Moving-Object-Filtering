@@ -22,5 +22,6 @@ From the aggregated virtual point cloud, identify and remove data corresponding 
 
 Enhance the static virtual point cloud by assigning color values to the points using image data from the cameras. This will result in a visually enriched, realistic representation of the environment. 
 
+You can check the Video from [here](https://youtu.be/YAKQpFm99yk?si=0G7h-CtLWhkK8RHM)
 
 
