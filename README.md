@@ -11,7 +11,6 @@ Tasks:
 1. Point Cloud Aggregation 
 
 Using the provided calibration and ego-motion data from GNSS-INS, aggregate frame-by-frame lidar point data to create a comprehensive virtual point cloud representation of the environment along the vehicle's trajectory. 
- 
 
 2. Moving Object Filtering 
 
